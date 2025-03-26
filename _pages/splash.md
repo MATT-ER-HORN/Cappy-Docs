@@ -1,5 +1,5 @@
 ---
-title: "TrackStar"
+title: "Cappy Documentation"
 layout: splash
 permalink: /
 date: 2020-04-08
@@ -11,11 +11,13 @@ header:
 
 
   actions:
-    - label: "View on Github"
+    - label: "View CAD"
       url: "https://github.com/MATT-ER-HORN"
     - label: "Buy on Tindie"
       url: "https://www.tindie.com/stores/trackstar/"
-excerpt: Compact and open-source mount for astrophotography and timelapse panoramas
+    - label: "View elecronics" 
+      url: "https://github.com/MATT-ER-HORN" 
+excerpt: Open source capper/decapper using a print in place compliant mechanism and two stepper motors
 intro: 
   - excerpt: 
 feature_row:
