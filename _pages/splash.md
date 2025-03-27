@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   # overlay_color: "#ca423b"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash/capybara.png
+  overlay_image: /assets/images/capybara3.png
 
 
   actions:
@@ -56,7 +56,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Build it!"
     btn_class: "btn--primary"
-  - image_path: /assets/images/GalleryM42.jpg
+  - image_path: /assets/images/decapper.jpg
     title: "Gallery"
     excerpt: "View some images taken Trackstar including:
 	
