@@ -1,5 +1,5 @@
 ---
-title: "Cappy Documentation"
+title: "Cappy the Decapper
 layout: splash
 permalink: /
 date: 2020-04-08
@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   # overlay_color: "#ca423b"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/splash/m42.jpg
+  overlay_image: /assets/images/capybara.png
 
 
   actions:
