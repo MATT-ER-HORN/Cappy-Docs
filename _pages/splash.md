@@ -52,8 +52,7 @@ feature_row:
 		* Installing or updating firmware
 		
 		* Suggestions for buidling from scratch
-		
-
+		"
     url: "#test-link"
     btn_label: "Build it!"
     btn_class: "btn--primary"
