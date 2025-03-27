@@ -11,13 +11,15 @@ header:
 
 
   actions:
-    - label: "View CAD"
+    - label: "Github CAD"
       url: "https://github.com/MATT-ER-HORN"
-    - label: "Buy on Tindie"
-      url: "https://www.tindie.com/stores/trackstar/"
-    - label: "View elecronics" 
+    - label: "Github Driver PCB" 
       url: "https://github.com/MATT-ER-HORN" 
-excerpt: Open source capper/decapper using a print in place compliant mechanism and two stepper motors
+    - label: "Github Driver PCB" 
+      url: "https://github.com/MATT-ER-HORN"   
+    - label: "Buy on Tindie"
+      url: "https://www.tindie.com/stores/trackstar/" 
+excerpt: Open source capper/decapper using a print-in-place compliant mechanism and two stepper motors
 intro: 
   - excerpt: 
 feature_row:
