@@ -1,5 +1,5 @@
 ---
-title: "Cappy the Decapper
+title: "Cappy the Decapper"
 layout: splash
 permalink: /
 date: 2020-04-08
