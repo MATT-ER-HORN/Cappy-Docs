@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   # overlay_color: "#ca423b"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/capybara.png
+  overlay_image: /assets/images/splash/capybara.png
 
 
   actions:
