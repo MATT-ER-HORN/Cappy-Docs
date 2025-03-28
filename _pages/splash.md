@@ -23,24 +23,6 @@ excerpt: Open source capper/decapper using a print-in-place compliant mechanism 
 intro: 
   - excerpt: 
 feature_row:
-  - image_path: /assets/images/splash/features.png
-    title: "Features:"
-    excerpt: "
-		* 4+ hour battery life
-		
-		* USB rechargeable
-		
-		* Bluetooth App Control
-		
-		* 360:1 ratio, NEMA 14 stepper 
-		
-		* Laser based polar alignment
-		
-		
-			"
-    url: "#test-link"
-    btn_label: "See More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/building.jpg
     title: "Build Instructions:"
     excerpt: "Detailed buid instruction including:
@@ -83,4 +65,4 @@ feature_row:
 
 {% include feature_row id="feature_row_center" type="right" %}
 
-{% include feature_row id="feature_row_center" type="center" %}
+<!-- {% include feature_row id="feature_row_center" type="center" %} --> 
