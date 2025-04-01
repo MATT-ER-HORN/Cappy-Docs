@@ -15,7 +15,7 @@ header:
       url: "https://github.com/MATT-ER-HORN"
     - label: "Github Driver PCB" 
       url: "https://github.com/MATT-ER-HORN" 
-    - label: "Github Driver PCB" 
+    - label: "Github Firmware" 
       url: "https://github.com/MATT-ER-HORN"   
     - label: "Buy on Tindie"
       url: "https://www.tindie.com/stores/trackstar/" 
@@ -23,7 +23,7 @@ excerpt: Open source capper/decapper using a print-in-place compliant mechanism 
 intro: 
   - excerpt: 
 feature_row:
-  - image_path: /assets/images/building.jpg
+  - image_path: /assets/images/cappy_build.png
     title: "Build Instructions:"
     excerpt: "Detailed buid instruction including:
 	
